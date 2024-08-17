@@ -1,0 +1,124 @@
+#home{
+	width: 100vw;
+	height: 650px;
+	color:burlywood;
+	background-color: aquamarine;
+    background-image: url(img/bg8.jpg);
+	padding-left: 100px;
+	padding-top: 100px;
+background-size: cover;
+
+/* display: flex; */
+}
+#home1{
+	display: flex;
+}
+home3{
+	border: 1px solid brown;
+	z-index: -10pz;
+
+}
+h3{
+	text-decoration-line: none;
+    background-color: black;
+	color:black;
+	border: 3px dotted red;
+	border-radius: 10px;
+    padding-top: 6px;
+text-decoration: none;
+}
+h4{
+	padding-top: 50px;
+}
+h2{
+	color: gold;
+	text-decoration-line: underline;
+
+}
+sub{
+
+	padding-left: 150px;
+	text-decoration-line: underline;
+
+}
+#id1{
+	background-color: dodgerblue;
+	color: aliceblue;
+	border-radius: 10px;
+	padding-inline-end:60px;
+	
+	
+	
+}
+
+#non{
+	text-decoration: none;
+
+}
+
+.card-img-overlay{
+
+	color: black;
+	z-index: 100px;
+    display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+#login{
+	color: antiquewhite;
+	border: 3px double red;
+	width: 100px;
+	height: 50px;
+	padding-top: 7px;
+	text-align: center;
+}
+nav{
+	background-color: black;
+	height: 50px;
+	padding-left: 20px;
+	padding-top: 10px;
+	font-size: x-large;
+	text-decoration: none;
+	color: cornflowerblue;
+	color: wheat;
+
+}
+
+
+.card-title{
+	color: blue;
+	padding-left: 100px;
+font-size: larger;
+font-weight: bolder;
+transition-duration: 0.5ms;
+}
+ul{
+
+
+	text-shadow: 20px;
+	
+	font: size 20px;;
+	font-weight: bolder;
+}
+#vish{
+	padding: top 200px;
+}
+h4{
+	color: blue;
+	font-stretch: extra-condensed;
+	font-weight:
+	 bolder;
+
+}
+#shame{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	/* word-spacing: 20px; */
+
+
+}
+
+footer{
+	background-color: black;
+	border: 3px;
+	color: black;
+}

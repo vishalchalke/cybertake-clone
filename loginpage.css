@@ -1,0 +1,56 @@
+*{
+	background-color: darkslateblue;
+	border-radius: 60px;
+	border:6px double rgba(0, 238, 255, 0.652);
+    backface-visibility: visible;
+	border-color: rgb(0, 255, 26);
+}
+nav{
+	color: aliceblue;
+	text-align: center;
+	font-size: x-large;
+	background-color: aquamarine;
+}
+form{
+	color: aqua;
+	background-color: black;
+	text-align: center;
+	padding-top: 20px;
+
+	
+}
+input{
+	background-color: white;
+	color: black;
+	border: 3px solid black;
+	border-radius: 9px;
+	height: 40px;
+}
+button{
+	background-color: wheat;
+	
+	height:50px;
+	border: none;
+	background-color: blue;
+	color: beige;
+	font-size: bolder;
+	font-weight: 700;
+}
+select{
+	height: 50px;
+	border-bottom-right-radius: 10px;
+	border: none;
+	background-color:white;
+	color: black;
+	font-weight: bolder;
+
+}
+p{
+	width: 100ww;
+	background-color:orangered;
+	text-overflow: ellipsis;
+
+}
+h1{
+	background-color: orangered;
+}
